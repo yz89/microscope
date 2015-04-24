@@ -1,3 +1,3 @@
 # microscope
 
-Fork from https://github.com/DiscoverMeteor/Microscope
+Learn from https://github.com/DiscoverMeteor/Microscope
